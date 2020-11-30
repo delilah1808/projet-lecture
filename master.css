@@ -1,0 +1,139 @@
+html {
+  margin: 0;
+  padding: 0;
+  background: url("images/fond-ng.png") no-repeat center fixed;
+  width: 100%;
+  background-size: cover;
+}
+
+body {
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  background-size: cover;
+  overflow-y: hidden;
+}
+
+.coloncontent {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 12vw;
+  margin-right: 12vw;
+  margin-top: 15vh;
+  margin-bottom: 2vh;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+}
+
+.coloncontent>div {
+  max-width: 900px;
+  margin-left: 0vw;
+  margin-right: 0vw;
+  flex-basis: 65vh;
+  flex-direction: row;
+  align-self: auto;
+}
+
+#colonne1 {}
+
+#colonne2 {}
+
+.paragraphe3 {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  margin-top: 15vh;
+  margin-bottom: 0vh;
+  max-width: 900px;
+}
+
+h4 {
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5vh;
+}
+
+.paragraphe5 {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  margin-top: 50vh;
+  margin-bottom: 0vh;
+  max-width: 900px;
+}
+
+.paragraphe6 {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  margin-top: 5vh;
+  margin-bottom: 0vh;
+  max-width: 900px;
+}
+
+.colonne4 {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  margin-top: 5vh;
+  margin-bottom: 15vh;
+  max-width: 900px;
+}
+
+h1 {
+  position: absolute;
+  color: #000000;
+  max-width: 100%;
+  top: 15%;
+  justify-content: space-around;
+  margin-left: 18vw;
+  margin-right: 18vw;
+}
+
+h2#exergue1 {
+  position: absolute;
+  color: white;
+  max-width: 100%;
+  bottom: 0;
+  left: 0;
+}
+
+h2#exergue2 {
+  position: absolute;
+  color: white;
+  max-width: 100%;
+  top: 0;
+  right: 0;
+}
+
+
+nav {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  top: 85vh;
+  bottom: 10vh;
+  align-items: center;
+left: -1vw;
+width:100%;
+}
+
+img {
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+mark {
+  background-color: #000000;
+  color: #ffffff;
+}

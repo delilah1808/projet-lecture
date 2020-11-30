@@ -1,0 +1,97 @@
+body {
+  font-family: condor-condensed, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+h1 {
+  font-family: rig-solid-medium-lines, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 4em;
+  font-height: 6.5em;
+  color: #000000;
+  text-align: center;
+
+}
+
+h4 {
+  font-family: rig-solid-medium-lines, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 2.5em;
+  color: #ffffff;
+  text-align: center;
+}
+
+h2 {
+  font-family: rig-solid-medium-lines, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 2.5em;
+  text-align: left;
+}
+
+h3 {
+  font-family: rig-solid-medium-lines, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 2em;
+  text-align: center;
+}
+
+h5 {
+  font-family: ff-basic-gothic-pro, sans-serif;
+  font-weight: 100;
+  font-style: italic;
+  font-size: 1.7em;
+  line-height: 1.3em;
+  color: #000000;
+  text-align: center;
+}
+
+h6{
+  font-family: ff-basic-gothic-pro, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 1.7em;
+  line-height: 1.3em;
+  color: #000000;
+  text-align: center;
+}
+p em {
+  font-family: ff-basic-gothic-pro, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  color: #ffffff;
+  background-color: #000000;
+}
+
+h6 em {
+  font-family: ff-basic-gothic-pro, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  color: #ffffff;
+  background-color: #000000;
+}
+p {
+  font-family: ff-basic-gothic-pro, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 1.7em;
+  line-height: 1.3em;
+  color: #000000;
+  text-align: left;
+}
+h6 span {
+  font-family: ff-basic-gothic-pro, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+p span {
+  font-family: ff-basic-gothic-pro, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
